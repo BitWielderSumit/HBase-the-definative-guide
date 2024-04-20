@@ -1,2 +1,2 @@
 # HBase-the-definative-guide
-initial commit
+initial commit 
